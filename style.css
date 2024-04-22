@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+    background-color:  #e8e8e8ab;
+    color: #020202 ;
+}
+
+table, nome, perfil, e-mail, açao td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+    padding: 5px 2px 5px 2px;
+    
+}
+table{
+    width: 80%;
+}
+
+th, td{
+    padding: 10px;
+
+}
+
+table caption{
+caption-side: top;
+margin-bottom: 10px;
+text-align: right;
+}
+
+tfoot, table th{
+background:#0B8E98;
+}
+
+table{
+    padding: 10px;
+}
